@@ -4,10 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-django = "*"
+django = "2.1.6"
 channels = "*"
 "pypiwin32" = "*"
 channels-redis = "*"
+Pipfile = "*"
 
 [dev-packages]
 
